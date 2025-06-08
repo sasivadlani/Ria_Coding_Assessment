@@ -6,7 +6,7 @@
 2. Navigate to the project directory:
 
    ```sh
-   cd weather-app
+   cd Ria_Coding_Assessment
    ```
 
 3. Install dependencies:
